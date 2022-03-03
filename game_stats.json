@@ -1,0 +1,56 @@
+[
+ {
+  "game": "ELDEN RING",
+  "current_players": "550,514",
+  "peak_today": "823,527",
+  "game_link": "https://store.steampowered.com/app/1245620/ELDEN_RING/"
+ },
+ {
+  "game": "Lost Ark",
+  "current_players": "525,593",
+  "peak_today": "819,652",
+  "game_link": "https://store.steampowered.com/app/1599340/Lost_Ark/"
+ },
+ {
+  "game": "Counter-Strike: Global Offensive",
+  "current_players": "494,412",
+  "peak_today": "865,411",
+  "game_link": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"
+ },
+ {
+  "game": "Dota 2",
+  "current_players": "363,313",
+  "peak_today": "591,257",
+  "game_link": "https://store.steampowered.com/app/570/Dota_2/"
+ },
+ {
+  "game": "PUBG: BATTLEGROUNDS",
+  "current_players": "255,176",
+  "peak_today": "466,001",
+  "game_link": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/"
+ },
+ {
+  "game": "Apex Legends",
+  "current_players": "154,926",
+  "peak_today": "288,246",
+  "game_link": "https://store.steampowered.com/app/1172470/Apex_Legends/"
+ },
+ {
+  "game": "NARAKA: BLADEPOINT",
+  "current_players": "83,089",
+  "peak_today": "147,569",
+  "game_link": "https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/"
+ },
+ {
+  "game": "Grand Theft Auto V",
+  "current_players": "79,086",
+  "peak_today": "116,258",
+  "game_link": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/"
+ },
+ {
+  "game": "Destiny 2",
+  "current_players": "67,236",
+  "peak_today": "133,096",
+  "game_link": "https://store.steampowered.com/app/1085660/Destiny_2/"
+ }
+]
